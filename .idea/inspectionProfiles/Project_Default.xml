@@ -1,0 +1,102 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="true" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="overflow-anchor" />
+            <item index="1" class="java.lang.String" itemvalue="text-color" />
+            <item index="2" class="java.lang.String" itemvalue="enable-background" />
+            <item index="3" class="java.lang.String" itemvalue="borders" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="DjangoCloseTagInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedLoadInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedTemplateReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="src" />
+            <item index="1" class="java.lang.String" itemvalue="href" />
+            <item index="2" class="java.lang.String" itemvalue="submit" />
+            <item index="3" class="java.lang.String" itemvalue="btn" />
+            <item index="4" class="java.lang.String" itemvalue="btn-ouline" />
+            <item index="5" class="java.lang.String" itemvalue="info" />
+            <item index="6" class="java.lang.String" itemvalue="btn-outline-info" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="nav-link" />
+            <item index="7" class="java.lang.String" itemvalue="img" />
+            <item index="8" class="java.lang.String" itemvalue="vibes" />
+            <item index="9" class="java.lang.String" itemvalue="legend" />
+            <item index="10" class="java.lang.String" itemvalue="fonts" />
+            <item index="11" class="java.lang.String" itemvalue="https" />
+            <item index="12" class="java.lang.String" itemvalue="style" />
+            <item index="13" class="java.lang.String" itemvalue="element" />
+            <item index="14" class="java.lang.String" itemvalue="after" />
+            <item index="15" class="java.lang.String" itemvalue="fontawesome" />
+            <item index="16" class="java.lang.String" itemvalue="rings-wedding" />
+            <item index="17" class="java.lang.String" itemvalue="styles" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="pkg-resources" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E203" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="expenses_tracker.profiles.forms.EditProfileForm.is_valid" />
+          <option value="django.templatetag" />
+          <option value="tests.tasks_wedding_planner.views.test_task_details.TaskDetailsTest.task_user" />
+          <option value="str.__xor__" />
+          <option value="django.forms.PasswordField" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
